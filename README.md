@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Abdelrahman Fareed
 
-<!--
-**abdelrahmanfareed160/abdelrahmanfareed160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering and Control Systems student at Mansoura University. I'm very interested in Machine Learning, Deep Learning, and Computer Vision. I enjoy building projects that improve my skills and help me turn what I learn into real-world solutions. I love solving problems and always look for new challenges in AI and software development.
 
-Here are some ideas to get you started:
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahmanfareed160&show_icons=true&count_private=true&hide=contribs,prs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanfareed160&layout=compact)
+
+
+## Education
+
+**Bachelor of Engineering in Computer Engineering and Control Systems**  
+*Mansoura University, Faculty of Engineering*  
+Mansoura, Egypt  
+Expected Graduation: Jul 2026  
+**Cumulative Grade:** 86% (Excellent)
