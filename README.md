@@ -3,7 +3,7 @@
 A Computer Engineering and Control Systems student at Mansoura University. I'm very interested in Machine Learning, Deep Learning, and Computer Vision. I enjoy building projects that improve my skills and help me turn what I learn into real-world solutions. I love solving problems and always look for new challenges in AI and software development.
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahmanfareed160&show_icons=true&count_private=true&hide=contribs,prs)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrahmanfareed160)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanfareed160&layout=compact)
