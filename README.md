@@ -2,11 +2,15 @@
 
 A Computer Engineering and Control Systems student at Mansoura University. I'm very interested in Machine Learning, Deep Learning, and Computer Vision. I enjoy building projects that improve my skills and help me turn what I learn into real-world solutions. I love solving problems and always look for new challenges in AI and software development.
 
-## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrahmanfareed160)](https://github.com/anuraghazra/github-readme-stats)
+## Top Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahmanfareed160&repo=Employee-Attrition-Prediction&theme=tokyonight)](https://github.com/abdelrahmanfareed160/Employee-Attrition-Prediction)
 
-## Programming Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanfareed160&layout=compact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahmanfareed160&repo=Maze-Game&theme=tokyonight)](https://github.com/abdelrahmanfareed160/Maze-Game)
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrahmanfareed160&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanfareed160&theme=tokyonight)
 
 
 ## Education
