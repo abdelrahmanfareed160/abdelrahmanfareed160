@@ -1,22 +1,48 @@
-# Hi, I'm Abdelrahman Fareed
+<h1 align="center">Hi 👋, I'm Abdelrahman Fareed</h1>
+<h3 align="center">Computer Engineering & Control Systems Student | ML & CV Enthusiast</h3>
 
-A Computer Engineering and Control Systems student at Mansoura University. I'm very interested in Machine Learning, Deep Learning, and Computer Vision. I enjoy building projects that improve my skills and help me turn what I learn into real-world solutions. I love solving problems and always look for new challenges in AI and software development.
+---
 
-## Top Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahmanfareed160&repo=Employee-Attrition-Prediction&theme=tokyonight)](https://github.com/abdelrahmanfareed160/Employee-Attrition-Prediction)
+## 🚀 About Me
+🎓 Computer Engineering and Control Systems student at **Mansoura University**  
+🤖 Passionate about Machine Learning, Deep Learning, and Computer Vision  
+📊 Interested in building real-world AI solutions  
+💡 Love solving problems and turning ideas into impactful projects  
+📚 Always learning and exploring new AI technologies  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahmanfareed160&repo=Maze-Game&theme=tokyonight)](https://github.com/abdelrahmanfareed160/Maze-Game)
+---
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrahmanfareed160&show_icons=true&theme=tokyonight)
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, SQL  
+- **ML & DL:** Scikit-learn, TensorFlow, PyTorch  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Other Tools:** Git, GitHub, Docker  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanfareed160&theme=tokyonight)
+---
+
+## 📌 Featured Projects
+
+### 🔹 Employee Attrition Prediction
+Machine Learning model to predict employee turnover using EDA, feature engineering, and classification models.
+
+### 🔹 Maze Game
+A game development project demonstrating algorithmic thinking and problem-solving skills.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanfareed160&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanfareed160&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎓 Education
+**Bachelor of Engineering in Computer Engineering & Control Systems**  
+Faculty of Engineering, Mansoura University  
+📍 Mansoura, Egypt  
+📅 Expected Graduation: July 2026  
+🏅 Cumulative Grade: 86% (Excellent)
 
 
-## Education
-
-**Bachelor of Engineering in Computer Engineering and Control Systems**  
-*Mansoura University, Faculty of Engineering*  
-Mansoura, Egypt  
-Expected Graduation: Jul 2026  
-**Cumulative Grade:** 86% (Excellent)
